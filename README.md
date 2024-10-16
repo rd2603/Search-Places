@@ -2,9 +2,8 @@
 
 Table of Contents
 1. Running the Project
-3. Folder Structure
-4. Components Overview
-5. API Overview
+2. Folder Structure
+3. Components Overview
 
 
 1. I was facing some issue with github so I did uploaded zip file.
